@@ -1,0 +1,15 @@
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\bin\Debug\net6.0\StudentDatabase.exe
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\bin\Debug\net6.0\StudentDatabase.deps.json
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\bin\Debug\net6.0\StudentDatabase.runtimeconfig.json
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\bin\Debug\net6.0\StudentDatabase.dll
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\bin\Debug\net6.0\StudentDatabase.pdb
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\obj\Debug\net6.0\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\obj\Debug\net6.0\StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\obj\Debug\net6.0\StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\obj\Debug\net6.0\StudentDatabase.AssemblyInfo.cs
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\obj\Debug\net6.0\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\obj\Debug\net6.0\StudentDatabase.dll
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\obj\Debug\net6.0\refint\StudentDatabase.dll
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\obj\Debug\net6.0\StudentDatabase.pdb
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\obj\Debug\net6.0\StudentDatabase.genruntimeconfig.cache
+C:\Users\John.Poston\GC\GrandCircusLabs\StudentDatabase\obj\Debug\net6.0\ref\StudentDatabase.dll

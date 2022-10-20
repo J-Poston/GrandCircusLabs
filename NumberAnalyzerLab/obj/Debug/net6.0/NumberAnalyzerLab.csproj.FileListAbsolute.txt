@@ -1,0 +1,15 @@
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net6.0\NumberAnalyzerLab.exe
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net6.0\NumberAnalyzerLab.deps.json
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net6.0\NumberAnalyzerLab.runtimeconfig.json
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net6.0\NumberAnalyzerLab.dll
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net6.0\NumberAnalyzerLab.pdb
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.csproj.AssemblyReference.cache
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.AssemblyInfoInputs.cache
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.AssemblyInfo.cs
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.csproj.CoreCompileInputs.cache
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.dll
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\refint\NumberAnalyzerLab.dll
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.pdb
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.genruntimeconfig.cache
+C:\Users\John.Poston\GC\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\ref\NumberAnalyzerLab.dll
