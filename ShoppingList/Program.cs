@@ -103,10 +103,17 @@
         {
             Console.WriteLine("Thank you for shopping with us!");
             Console.WriteLine("Here's your receipt");
-            
-            foreach(string item in shoppingList)
+
+            Dictionary<string, decimal> list = new Dictionary<string, decimal>();
+
+            foreach (string item in shoppingList)
             {
-                Console.WriteLine(item);
+                KeyValuePair<string, decimal> kvp = GetMenuItems().Where(x => x.Key == item).FirstOrDefault();
+                list.Add(kvp.Key, kvp.Value);
+            }
+            foreach(KeyValuePair<string, decimal> item in list)
+            {
+                Console.WriteLine($"{item.Key} {item.Value}");
             }
         }
         
