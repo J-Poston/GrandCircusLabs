@@ -1,0 +1,15 @@
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\obj\Debug\net6.0\Roshambo.csproj.AssemblyReference.cache
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\obj\Debug\net6.0\Roshambo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\obj\Debug\net6.0\Roshambo.AssemblyInfoInputs.cache
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\obj\Debug\net6.0\Roshambo.AssemblyInfo.cs
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\obj\Debug\net6.0\Roshambo.csproj.CoreCompileInputs.cache
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\bin\Debug\net6.0\Roshambo.exe
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\bin\Debug\net6.0\Roshambo.deps.json
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\bin\Debug\net6.0\Roshambo.runtimeconfig.json
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\bin\Debug\net6.0\Roshambo.dll
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\bin\Debug\net6.0\Roshambo.pdb
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\obj\Debug\net6.0\Roshambo.dll
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\obj\Debug\net6.0\refint\Roshambo.dll
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\obj\Debug\net6.0\Roshambo.pdb
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\obj\Debug\net6.0\Roshambo.genruntimeconfig.cache
+C:\Users\John.Poston\GC\GrandCircusLabs\Roshambo\obj\Debug\net6.0\ref\Roshambo.dll
